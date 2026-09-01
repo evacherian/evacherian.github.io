@@ -25,11 +25,11 @@ author:
   # Biographic information
   # avatar           : "profile.png"
   name             : "Eva Cherian"
-  pronouns         : # example: "she/her"  
+  # pronouns         : # example: "she/her"  
   bio              : "PhD student in Data Science"
   # location         : "Earth"
   employer         : "Indian Institute of Technology Palakkad"
-  uri              : # URL
+  # uri              : # URL
   # email            : "none@example.org" 
 
   # Academic websites

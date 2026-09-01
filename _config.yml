@@ -28,7 +28,7 @@ author:
   # pronouns         : # example: "she/her"  
   bio              : "PhD student in Data Science"
   # location         : "Earth"
-  employer         : "Indian Institute of Technology Palakkad"
+  employer         : "IIT Palakkad" # "Indian Institute of Technology Palakkad"
   # uri              : # URL
   # email            : "none@example.org" 
 

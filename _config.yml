@@ -30,7 +30,7 @@ author:
   # location         : "Earth"
   employer         : "Indian Institute of Technology Palakkad"
   uri              : # URL
-  email            : "none@example.org" 
+  # email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL

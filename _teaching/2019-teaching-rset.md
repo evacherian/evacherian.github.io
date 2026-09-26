@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2019-teaching-rset
 venue: "Rajagiri School of Engineering and Technology, Department of Mathematics"
+date: 2019-07-19
 location: "Kochi"
 ---
 

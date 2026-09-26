@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate and Postgraduate courses"
 permalink: /teaching/2026-iitpkd-teaching
 venue: "IIT Palakkad, Department of Data Science"
-date: 2026-09-19
 location: "Palakkad"
 ---
 

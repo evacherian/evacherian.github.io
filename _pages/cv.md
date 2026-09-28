@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Data Science, IIT Palakkad , 2022 - till date
+* MSc in Mathematics, Cochin University of Science and Technology (2017 - 2019)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024 - till date: Senior Research Fellow
+  * IIT Palakkad
+  * Supervisor: Mrinal Das
   
-Skills
+* 2022 - 2024: Junior Research Fellow
+  * IIT Palakkad
+  * Supervisor: Mrinal Das
+
+* 2023 - till date: Graduate Teaching Assistant
+  * IIT Palakkad
+
+* 2019 - 2022: Assistant Professor
+  * Department of Mathematics, Rajagiri School of Engineering and Technology
+
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
+
+Funding and Fellowships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Kishore Vaigyanik Protsahan Yojana (KVPY) fellow (2011 - 2015)
 
 Publications
 ======
@@ -59,6 +61,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams

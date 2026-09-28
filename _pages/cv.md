@@ -30,14 +30,14 @@ Work experience
 * 2019 - 2022: Assistant Professor
   * Department of Mathematics, Rajagiri School of Engineering and Technology
 
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
+<!-- Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3-->
 
 Funding and Fellowships
 ======
@@ -61,6 +61,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Service and leadership
-# ======
-# * Currently signed in to 43 different slack teams
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
